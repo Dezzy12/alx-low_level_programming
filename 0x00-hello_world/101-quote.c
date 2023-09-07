@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
 * main - Represents the entry point of our C program
 * Return: This is the return value of program, which is 1
