@@ -3,7 +3,7 @@
 /**
 * mul - function that multiplies two int
 * @a: character input
-* @a: character input
+* @b: character input
 * Return: result
 */
 
